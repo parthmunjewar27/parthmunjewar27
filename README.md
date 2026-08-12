@@ -1,11 +1,3 @@
-# 💫 Hi 👋, I'm Parth munjewar
-**A passionate Data Enginner || Data Analytics|| : Pandas, NumPy, Scikit-learn ,Power BI**
-
-Email Me 👉 ✉️ **parthmunjewar04@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🌱 **I’m currently learning:** python , mysql ,scikit learn ,Power BI, pandas 
-- 💬 **Ask me about:** Collaboration, Tech Support
-- ⚡ **Fun fact:** I enjoy turning messy data into clean, meaningful stories!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/partthhh_27___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parth-munjewar-b12902315?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthmunjewar04@gmail.com) 
